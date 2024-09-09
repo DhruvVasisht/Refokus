@@ -1,5 +1,4 @@
 # About the project
-=> Clone of <a href="https://www.refokus.com">refokus.com</a>.
 
 **(This project is crated via using React)**
 
